@@ -1,0 +1,20 @@
+{
+  "name": "deployment",
+  "version": "1.0.0",
+  "description": "Just an backend application for learning the backend deployment ",
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "ishmeet singh sodhi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js "
+  },
+  "dependencies": {
+    "dotenv": "^18.0.4",
+    "express": "^5.2.1"
+  }
+}
